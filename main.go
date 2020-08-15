@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	length := 16
+	length := 24
 	fmt.Println("💅" + uid.Uid(length))
 }
